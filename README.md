@@ -1,4 +1,5 @@
 # Employee Management System
+This project was built as a simple final year/prefinal year CRUD application for learning backend basics.
 
 A simple web application for managing employee records. It supports admin login, CRUD operations, search, validation, password hashing, and SQLite database storage.
 
