@@ -58,7 +58,7 @@ employee-management-system/
 
 The `employees.db` file is created automatically after running the project.
 
-## How to Explain This Project
+## Project Overview
 
 This is a CRUD-based Employee Management System made for admins. The admin must login before accessing employee data. After login, the admin can create, read, update, and delete employee records. The project uses SQLite for storing data and Python's built-in HTTP server for handling routes.
 
